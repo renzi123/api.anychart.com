@@ -2370,7 +2370,7 @@ anychart.charts.Sunburst.prototype.selectRectangleMarqueeFill;
  * @inheritDoc
  * @ignoreDoc
  */
-anychart.charts.Sunburst.prototype.startRectangleMarqueeStroke;
+anychart.charts.Sunburst.prototype.selectRectangleMarqueeStroke;
 
 /**
  * @inheritDoc

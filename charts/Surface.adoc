@@ -1973,7 +1973,7 @@ anychart.charts.Surface.prototype.selectRectangleMarqueeFill;
  * @inheritDoc
  * @ignoreDoc
  */
-anychart.charts.Surface.prototype.startRectangleMarqueeStroke;
+anychart.charts.Surface.prototype.selectRectangleMarqueeStroke;
 
 /**
  * @inheritDoc

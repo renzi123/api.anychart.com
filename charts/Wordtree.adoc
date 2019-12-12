@@ -1895,7 +1895,7 @@ anychart.charts.Wordtree.prototype.selectRectangleMarqueeFill;
  * @inheritDoc
  * @ignoreDoc
  */
-anychart.charts.Wordtree.prototype.startRectangleMarqueeStroke;
+anychart.charts.Wordtree.prototype.selectRectangleMarqueeStroke;
 
 /**
  * @inheritDoc

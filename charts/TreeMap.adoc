@@ -2248,7 +2248,7 @@ anychart.charts.TreeMap.prototype.selectRectangleMarqueeFill;
  * @inheritDoc
  * @ignoreDoc
  */
-anychart.charts.TreeMap.prototype.startRectangleMarqueeStroke;
+anychart.charts.TreeMap.prototype.selectRectangleMarqueeStroke;
 
 /**
  * @inheritDoc
