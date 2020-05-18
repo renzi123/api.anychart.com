@@ -47,7 +47,7 @@ anychart.core.gantt.elements.MilestonesPreviewElement.prototype.depth;
 
 /**
  * Getter for marker type
- * @example anychart.core.gantt.elements.MilestonesPreviewElement.markerType_set
+ * @example anychart.core.gantt.elements.MilestonesPreviewElement.markerType_get
  * @listing See listing
  * var milestones = chart.getTimeline().milestones();
  * var preview = milestones.preview();
