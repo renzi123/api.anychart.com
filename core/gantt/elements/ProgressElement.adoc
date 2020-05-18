@@ -207,7 +207,7 @@ anychart.core.gantt.elements.ProgressElement.prototype.enabled;
  * bar that progress belongs to if progress value is more than 100%.
  * @category Specific settings
  * @example anychart.core.gantt.elements.ProgressElement.drawOverEnd
- * @return {boolean} Tooltip settings.
+ * @return {boolean} Whether to draw over end.
  * @since 8.7.0
  */
 anychart.core.gantt.elements.ProgressElement.prototype.drawOverEnd;
